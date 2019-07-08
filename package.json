@@ -1,0 +1,23 @@
+{
+  "name": "unscdb",
+  "version": "1.0.0",
+  "description": "A database of Halo Canon/Lore",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rboddy/UNSCDB.git"
+  },
+  "author": "Ryan Boddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rboddy/UNSCDB/issues"
+  },
+  "homepage": "https://github.com/rboddy/UNSCDB#readme"
+}
